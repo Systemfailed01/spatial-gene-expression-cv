@@ -112,7 +112,7 @@ Open notebooks/Spatial_v3_ScaleVsSpecificity.ipynb in Google Colab. All data dow
 ## Author
 
 **Kardoussi Chamel B.E.**  
-Computer Vision & Bioinformatics Researcher  
+Bioengineering Systems and Technologies  
 
 ---
 
