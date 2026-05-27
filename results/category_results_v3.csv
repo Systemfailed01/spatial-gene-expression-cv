@@ -1,0 +1,11 @@
+Category,Encoder,Mean PCC
+Structural/Epithelial,DINOv3,-0.1456532
+Structural/Epithelial,UNI,-0.13573952
+Immune,DINOv3,0.17527223
+Immune,UNI,0.2065581
+Mitochondrial,DINOv3,0.14444979
+Mitochondrial,UNI,0.16999248
+Stromal/ECM,DINOv3,0.024203185
+Stromal/ECM,UNI,0.01027645
+Cancer/Proliferation,DINOv3,0.006712869
+Cancer/Proliferation,UNI,0.0012966245
